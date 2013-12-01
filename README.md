@@ -1,4 +1,4 @@
 eachother
 =========
 
-Make friendship with EachOther software
+Make friends with EachOther software
