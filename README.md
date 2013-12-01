@@ -16,8 +16,8 @@ for OSx: TBD
 for Linux64: https://github.com/sequoiar/eachother/blob/master/forward-proxy-pkg-release-linux64.tar.gz?raw=true
 for Linux32: https://github.com/sequoiar/eachother/blob/master/forward-proxy-pkg-release-linux32.tar.gz?raw=true
 
-2. 将下载的软件包解压到一个目录，然后打开Windows命令行窗口，并进入解压的目录。
+2. 将下载的软件包解压到一个目录，然后打开命令行窗口，并进入解压的目录。
 
-3. 按照解压目录里的 windows-howto.md，2步设置浏览器代理，即可访问国内视频网站。
+3. 按照解压目录里的 windows-howto.md，linux-howto.md, 2步设置浏览器代理，即可访问国内视频网站。
 
 4. 目前支持 Windows, Linux
