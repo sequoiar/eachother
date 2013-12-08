@@ -26,3 +26,4 @@ Make friends with EachOther software
 4. 目前支持 Windows
 
 
+5. 绿色开源软件
