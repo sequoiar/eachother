@@ -26,7 +26,7 @@ Make friends with EachOther software
 4. 目前支持 Windows
 
 
-5. 绿色开源软件，解压之后便是 node-forward-proxy 源代码。
+5. 绿色开源软件，解压之后是 node-forward-proxy 源代码。
    
    https://github.com/InstantWebP2P/node-forward-proxy/tree/pkg-release-windows
 
