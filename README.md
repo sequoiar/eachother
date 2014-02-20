@@ -30,4 +30,6 @@ Make friends with EachOther software
    
    https://github.com/InstantWebP2P/node-forward-proxy/tree/pkg-release-windows
 
+   bin/node.exe 是预编译的 node-httpp windows binary: https://github.com/InstantWebP2P/node-httpp
+
 
