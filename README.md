@@ -8,16 +8,17 @@ Make friends with EachOther software
 访问国内视频网站的一个简便方法：
 
 
-1. 打开下面链接下载 EachOther 软件包
+1. 下载 EachOther 软件包并解压: https://github.com/sequoiar/eachother/archive/master.zip
 
-   for Windows: https://github.com/sequoiar/eachother/blob/master/forward-proxy-pkg-release-windows.tar.gz?raw=true
+
+   for Windows: 在解压的软件包里解压 forward-proxy-pkg-release-windows.tar.gz
 
    for OSx: TBD
 
    for Linux: TBD
    
 
-2. 将下载的软件包解压到一个目录，然后打开命令行窗口，并进入解压的目录。
+2. 打开命令行窗口，并进入解压的目录。
 
 
 3. 按照解压目录里的 windows-howto.md, 2步设置浏览器代理，即可访问国内视频网站。
