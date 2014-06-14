@@ -38,6 +38,6 @@ Make friends with EachOther software
 
    for Linux x86: https://github.com/InstantWebP2P/node-forward-proxy/tree/pkg-release-linux32
    
-   bin/node.exe,bin/osx64/node,bin/linux32/node,bin/linux64/node 是编译的 node-httpp windows/osx64 binary: https://github.com/InstantWebP2P/node-httpp
+   bin/node.exe,bin/osx64/node,bin/linux32/node,bin/linux64/node 是编译的 node-httpp windows/osx64/linux32/linux64 binary: https://github.com/InstantWebP2P/node-httpp
 
 
